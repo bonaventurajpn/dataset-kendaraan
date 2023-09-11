@@ -1,0 +1,6 @@
+train: /home/bnvt15/kendaraan/fix/images/train
+val: /home/bnvt15/kendaraan/fix/images/valid
+test: /home/bnvt15/kendaraan/fix/images/test
+
+nc: 7
+names: ['ambulan', 'bis', 'becak', 'mobil', 'pemadam-kebakaran', 'sepeda-motor', 'truk']
