@@ -2,5 +2,5 @@ train: /content/dataset/dataset-kendaraan/images/train
 val: /content/dataset/dataset-kendaraan/images/valid
 test: /content/dataset/dataset-kendaraan/images/test
 
-nc: 7
-names: ['ambulan', 'bis', 'becak', 'mobil', 'pemadam-kebakaran', 'sepeda-motor', 'truk']
+nc: 10
+names: ['ambulan', 'bis', 'becak', 'mobil', 'pemadam-kebakaran', 'sepeda-motor', 'truk', 'bajaj', 'sepeda', 'manusia']
